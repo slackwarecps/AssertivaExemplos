@@ -5,7 +5,7 @@ Exemplo de programa feito em PHP puro (sem nenhum framework ou composer) para in
 # Site da Empresa
 https://assertivasolucoes.com.br/
 
-#DOCUMENTACAO DA API
+# DOCUMENTACAO DA API
 https://services.assertivasolucoes.com.br/swagger-ui.html
 
 
